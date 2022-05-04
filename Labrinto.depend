@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1651441817 source:c:\users\iandev\dropbox\pc\documents\labrinto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"arquivo.h"
+
+1651441348 c:\users\iandev\dropbox\pc\documents\labrinto\arquivo.h
+
+1651441639 source:c:\users\iandev\dropbox\pc\documents\labrinto\arquivo.c
+	<stdio.h>
+	<stdlib.h>
+	"arquivo.h"
+
